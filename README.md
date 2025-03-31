@@ -3,6 +3,7 @@
 <h2> Power BI:</h2>
 
 - <b>[EXCLAIM Executive Admin Dashboard](https://github.com/BenKnudsen/EXCLAIM-Executive-Admin-Dashboard/tree/main)</b>
+- <b>[Clinical Cancer Genetics Service (CCGS)](https://github.com/BenKnudsen/Clinical-Cancer-Genetics-Service-CCGS-/tree/main)</b>
 - <b>Additional items are currently being added to the portfolio</b>
 
 
